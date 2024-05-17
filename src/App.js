@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World! This is my first React App. I am learning React and it is fun.
         </p>
