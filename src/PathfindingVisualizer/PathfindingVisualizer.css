@@ -1,0 +1,10 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.buttons {
+  margin: 20px 20px 20px 20px;
+  color: white;
+  background-color: rgb(61, 61, 61);
+  padding: 15px 32px;
+}
